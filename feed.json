@@ -1,0 +1,24 @@
+{
+    "books":[
+        {
+       "title": "Brediecker",
+       "price": 23,
+       "imageUrl": "images/wine.png"
+    },
+     {
+       "title": "Chardonnay",
+       "price": 19,
+       "imageUrl": "images/growse.jpg"
+    },
+     {
+       "title": "Gewurztraminer",
+       "price": 26,
+       "imageUrl": "images/riesling.jpg"
+    },
+    {
+       "title": "Pinot",
+       "price": 215,
+       "imageUrl": "images/pinot.jpg"
+    }
+    ]
+}
