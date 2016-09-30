@@ -19,6 +19,11 @@
        "title": "Pinot",
        "price": 215,
        "imageUrl": "images/pinot.jpg"
+    },
+    {
+       "title": "Pinot",
+       "price": 215,
+       "imageUrl": "images/pinot.jpg"
     }
     ]
 }

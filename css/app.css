@@ -1,8 +1,10 @@
 html,
 body {
     font-family: 'Raleway', serif;
-    color: #666;
-    background-color: #fffde7;
+    color: #fafafa;
+    background-color: #59737f;
+      position: relative;
+  		min-height: 100%;
 }
 
 h1,
@@ -26,10 +28,13 @@ h6,
 }*/
 
 img.bottles{
-	height: 200px;
+	height: 250px;
 	float: left;
 }
 
+.bottles{
+	border-spacing: 10px 50px;
+}
 .price1, .price2, .price3{
 	margin-top: 135px;
 }
@@ -50,8 +55,9 @@ h3#headings{
 }
 
 #bottle-info{
-	font-size: 43px;
+	font-size: 40px;
 	background-color: #f5f5f5;
+	color: #666;
 }
 
 #delivery-info{
@@ -60,10 +66,18 @@ h3#headings{
 }
 
 #delinfo{
-	background-color: #f5f5f5;
+	/*background-color: #f5f5f5;*/
 	height: 90px;
+	text-align: right;
 }
 
-/*#price{
-	margin-bottom: 33px;
+/*.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  background-color: yellow;
+}
+.container .text-muted {
+  margin: 20px 0;
 }*/
